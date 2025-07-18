@@ -1,6 +1,6 @@
 # godot-icons-macos
 macOS App &amp; Folder Icons for Godot
-As of July 18, 2025, this includes icons in the style of Big Sur – Sequoia.
+As of July 18, 2025, this includes icons in the style of Big Sur through Sequoia.
 
 ## License
 
